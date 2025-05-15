@@ -1,7 +1,7 @@
 # odin-etch-a-sketch
 
-### pseudocode
-
 #### functions
 
-- [ ] test
+- [x] basic
+- [x] dynamic color hover
+- [x] scratching-off game
